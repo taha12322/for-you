@@ -1,0 +1,38 @@
+body {
+  background-color: #222;
+  text-align: center;
+  color: #fff;
+  font-family: "IranSans";
+}
+.nav {
+  display: flex;
+  margin-top: 1rem;
+  justify-content: center;
+  align-items: center;
+}
+img {
+  width: 200px;
+  height: 200px;
+  margin: 10px;
+}
+a {
+  background-color: #fff;
+  color: #222;
+  border-radius: 5px;
+  padding: 8px;
+  text-decoration: none;
+  margin: 8px;
+}
+.navImg {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+button {
+  background-color: #fff;
+  color: #000;
+  padding: 0.75rem 3rem;
+  border: none;
+  border-radius: 5px;
+  font-family: inherit;
+}
